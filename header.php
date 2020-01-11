@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="">
-<title>Preethi Public School</title>
+<title>De Preethi Public School</title>
 <!-- Styles -->
 <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 <link href="assets/css/owl.carousel.min.css" rel="stylesheet" media="screen">
@@ -16,120 +16,142 @@
 <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" media="screen">
 </head>
 <body>
-	<div class="row nav-row trans-menu">
-		<div class="container nav-container">
-			<div class="top-navbar">
-				<div class = "pull-right">
-					<div class="top-nav-social pull-left">
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-google-plus"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-linkedin"></i>
-						</a>
-					</div>
-					<!--<div class="top-nav-login-btn pull-right"><a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-sign-in"></i>LOGIN</a></div><div class="top-navbar-search pull-right"><i class="fa fa-search"></i><input type = "text" placeholder = "Search"/></div>-->
+<div class="row nav-row trans-menu">
+	<div class="container nav-container">
+		<div class="top-navbar">
+			<div class = "pull-right">
+				<div class="top-nav-social pull-left">
+					<a href="#">
+						<i class="fa fa-facebook"></i>
+					</a>
+					<a href="#">
+						<i class="fa fa-twitter"></i>
+					</a>
+					<a href="#">
+						<i class="fa fa-google-plus"></i>
+					</a>
+					<a href="#">
+						<i class="fa fa-linkedin"></i>
+					</a>
 				</div>
-				<div class = "clearfix"></div>
+				<!--<div class="top-nav-login-btn pull-right"><a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-sign-in"></i>LOGIN</a></div><div class="top-navbar-search pull-right"><i class="fa fa-search"></i><input type = "text" placeholder = "Search"/></div>-->
 			</div>
 			<div class = "clearfix"></div>
-			<nav id="Preethi Public SchoolNavbar" class="navbar navbar-default" role="navigation">
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Preethi Public SchoolNavbarCollapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.php">Preethi Public School</a>
-				</div>
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse" id="Preethi Public SchoolNavbarCollapse">
-					<ul class="nav navbar-nav">
-						<li>
-							<a href="index.php">HOME</a>
-						</li>
-						<li class="dropdown">
-							<a href="#" data-toggle="dropdown" class="dropdown-toggle">About Us 
-								<b class="caret"></b>
-							</a>
-							<ul class="dropdown-menu">
-								<li>
-									<a href="school-community.php">
-										<i class="fa fa-certificate"></i>School Community
-									</a>
-								</li>
-								<li>
-									<a href="vission-mission.php">
-										<i class="fa fa-certificate"></i>Vission Mission
-									</a>
-								</li>
-								<li>
-									<a href="shedule.php">
-										<i class="fa fa-certificate"></i>School Shedule
-									</a>
-								</li>
-								<li>
-									<a href="facilities.php">
-										<i class="fa fa-certificate"></i>Facilities
-									</a>
-								</li>
-								<li>
-									<a href="our-feeder-schools.php">
-										<i class="fa fa-certificate"></i>Our Feeder Schools
-									</a>
-								</li>
-								<li>
-									<a href="award.php">
-										<i class="fa fa-certificate"></i>Awards
-									</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="admission.php">
-							</i>ADMISSIONS
-						</a>
+		</div>
+		<div class = "clearfix"></div>
+		<nav id="Preethi Public SchoolNavbar" class="navbar navbar-default" role="navigation">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Preethi Public SchoolNavbarCollapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<!--<img src="assets/img/preethilogo.jpg" style="    width: 100px;" alt="Preethi Public School"/>-->
+				<a class="navbar-brand" href="index.php">De Preethi Public School</a> 
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="Preethi Public SchoolNavbarCollapse">
+				<ul class="nav navbar-nav">
+					<li>
+						<a href="index.php">HOME</a>
 					</li>
 					<li class="dropdown">
-						<a href="events.html" data-toggle="dropdown" class="dropdown-toggle">
-						</i>Scholastic 
-						<b class="caret"></b>
-					</a>
+						<a href="#" data-toggle="dropdown" class="dropdown-toggle">ABOUT US 
+							<b class="caret"></b>
+						</a>
+						<ul class="dropdown-menu">
+						<li>
+								<a href="about-us.php">
+									</i>About Us
+								</a>
+							</li>
+                            <li>
+								<a href="vission-mission.php">
+									</i>Vision & Mission
+								</a>
+							</li>
+							<li>
+								<a href="president_message.php">
+									</i>President's Message								</a>
+							</li>
+							<li>
+								<a href="shedule.php">
+									</i>Sri Sai Educational Trust
+								</a>
+							</li>
+	                    	<li>
+						</ul>
+						
+					</li>
+					<li class="dropdown">
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle">ADMISSION
+							<b class="caret"></b>
+						</a>
 					<ul class="dropdown-menu">
 						<li>
-							<a href="academic.php">
-							<i class="fa fa-certificate"></i>Academic Curriculum
+							<a href="admission.php">
+							</i>Admission Process
 						</a>
-						</li>
-						<li>
-							<a href="assesment.php">
-								<i class="fa fa-certificate"></i>Assessment and Evaluation
-							</a>
-						</li>
+						<a href="admission.php">
+							</i>Eligibility
+						</a>
+						<a href="admission.php">
+							</i>FAQ
+						</a>
+					</li>
 					</ul>
 				</li>
-				<li>
-					<a href="careers.php">
-					</i>Careers
+				<li class="dropdown">
+					<a href="events.html" data-toggle="dropdown" class="dropdown-toggle">
+					</i>ACADEMICS 
+					<b class="caret"></b>
 				</a>
+				<ul class="dropdown-menu">
+					<li>
+						<a href="academic.php">
+							</i>Academic Curriculum
+						</a>
+					</li>
+					<li>
+						<a href="assesment.php">
+							</i>Assessment and Evaluation
+						</a>
+					</li>
+				</ul>
 			</li>
 			<li>
-				<a href="gallery.php">
-				</i>Gallery
+				<a href="careers.php">
+				</i>ACHIEVEMENTS
+			</a>
+		   </li>
+		   <li class="dropdown">
+					<a href="events.html" data-toggle="dropdown" class="dropdown-toggle">
+					</i>INFRASTRUCTURE 
+					<b class="caret"></b>
+				</a>
+				<ul class="dropdown-menu">
+					<li>
+						<a href="academic.php">
+							</i>GALLERY
+						</a>
+					</ul>
+					</li>         
+			</li>    
+			<li>
+				<a href="careers.php">
+				</i>CAREER
 			</a>
 		</li>
-		<li>
-			<a href="contact.php">
-			</i>Contact Us
-		</a>
-	</li>
+	<li>
+		<a href="contact.php">
+		</i>CONTACT
+	</a>
+</li>
 </ul>
+</div>
+<!-- /.navbar-collapse -->
+</nav>
+</div>
 </div>
