@@ -1,23 +1,26 @@
 <!-- Header Section -->
 <?php  include('header.php')   ?>
-
+<!-- /.navbar-collapse -->
+</nav>
+</div>   
+</div>
 <!-- Page Title Section -->
 <div class="row page-title page-title-about">
 <div class="container">
+<h2>Academic Curriculum</h2>
 </div>
 </div>
+<!-- Teacher's Row -->
 <div class="row section-row">
 <div class="container">
 <div class="section-row-header-center">
-<i class="fa fa-star-o"></i>WE ARE BEST
-<i class="fa fa-star-o"></i>
-</h6>
+
 
 </div>
 <div class="teacher-item col-sm-12 teacher-about-row">
-<h1>Academic Curriculum</h1>
-<p>Preethi Public School has programmed a diverse and specialized curriculum which helps the child to develop critical thinking and problem-solving skills. </p>
-<p>Curriculum development is therefore a permanent feature ofPreethi Public School.Innovations are encouraged for an effective symbiotic relationship between teaching and learning to help imbibe the different perspectives within each subject area. </p>
+<h1>Advising</h1>
+<p>Among the many hats teachers wear at De Preethi's , one of the most important is the one labeled “faculty adviser”. Each student has an adviser and the student-adviser bond typically becomes very strong. Advisers are here to help you chart an academic course that fits your goals, but also to check in to see what’s going on in your life, to help you celebrate when you have something worth celebrating, to offer advice with any challenges you may face and generally help you navigate all parts of the De Preethi’s landscape. Faculty advisers are also the main liaisons between you, the school, and your parents, and are the chief go-to resources for information about procedures and opportunities here. </p>
+<p>Curriculum development is therefore a permanent feature of Preethi Public School. Innovations are encouraged for an effective symbiotic relationship between teaching and learning to help imbibe the different perspectives within each subject area. </p>
 </div>
 </div>
 </div>

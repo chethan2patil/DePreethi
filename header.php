@@ -77,7 +77,7 @@
 									</i>President's Message								</a>
 							</li>
 							<li>
-								<a href="shedule.php">
+								<a href="ss-educational-trust.php">
 									</i>Sri Sai Educational Trust
 								</a>
 							</li>

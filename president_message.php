@@ -7,14 +7,14 @@
 <!-- Page Title Section -->
 <div class="row page-title page-title-about">
 <div class="container">
+<h2>PRESIDENT'S MESSAGE</h2>
 </div>
 </div>
 <!-- Teachers row -->
 <div class="row section-row">
 <div class="container">
 <div class="section-row-header-center">
-<h1>PRESIDENT’S MESSAGE</h1>
-<h6>Sri SaiEducational Trust, Chintamani</h6>
+<h1>Sri Sai Educational Trust, Chintamani</h1>
 
 <h6><br />
 <i class="fa fa-star-o"></i>If your plan is for a year, plant Rice<i class="fa fa-star-o"></i><br />
