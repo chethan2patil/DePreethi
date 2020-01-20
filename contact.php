@@ -59,7 +59,7 @@
 								<i class="fa fa-envelope-o"></i>
 							</div>
 							<div class="col-xs-11">
-								<p>admin@depreethipublicschool.com</p>
+								<p>depreethipublicschool15@gmail.com</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -68,7 +68,7 @@
 								<i class="fa fa-phone"></i>
 							</div>
 							<div class="col-xs-11">
-								<p>+91 081542 50927</p>
+								<p>+08154 250927</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -77,7 +77,7 @@
 								<i class="fa fa-clock-o"></i>
 							</div>
 							<div class="col-xs-11">
-								<p>MON to FRI: 09:00 AM - 03:00 PM </p>
+								<p>MON to FRI: 09:10 AM - 04:10 PM </p>
 							</div>
 							<div class="clearfix"></div>
 						</div>

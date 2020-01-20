@@ -134,7 +134,7 @@
 					</div>
 					<h3>Annual Science Fest</h3>
 					<h6>
-						<i class="fa fa-map-marker"></i>Sciene Building
+						<i class="fa fa-map-marker"></i>Science Building
 					</h6>
 					<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
 				</div>
@@ -204,7 +204,7 @@
 					</div>
 					<h3>Annual Science Fest</h3>
 					<h6>
-						<i class="fa fa-map-marker"></i>Sciene Building
+						<i class="fa fa-map-marker"></i>Science Building
 					</h6>
 					<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
 				</div>
@@ -305,33 +305,33 @@
 		<i class="fa fa-star-o"></i>WE ARE BEST
 		<i class="fa fa-star-o"></i>
 	</h6>
-	<h1>Awards</h1>
+	<h1>Gallery</h1>
 </div>
 <div class="col-sm-6 col-md-4">
 	<div class="news-item-container">
 		<div class="news-img">
-			<img src="assets/img/news/news-sm1.jpg" alt="news"/>
+			<img src="assets/img/news/fb3.jpg" alt="news"/>
 		</div>
 	</div>
 </div>
 <div class="col-sm-6 col-md-4">
 	<div class="news-item-container">
 		<div class="news-img">
-			<img src="assets/img/news/news-sm2.jpg" alt="news"/>
+			<img src="assets/img/news/fb2.jpg" alt="news"/>
 		</div>
 	</div>
 </div>
 <div class="col-sm-6 col-md-4">
 	<div class="news-item-container">
 		<div class="news-img">
-			<img src="assets/img/news/news-sm2.jpg" alt="news"/>
+			<img src="assets/img/news/fb6.jpg" alt="news"/>
 		</div>
 	</div>
 </div>
 <div class="clearfix visible-sm-block"></div>
 <div class="clearfix visible-lg visible-md visible-sm"></div>
 <div class="view-all-link">
-	<a href="#">
+	<a href="gallery.php">
 		<i class="fa fa-paper-plane"></i>VIEW ALL
 	</a>
 </div>

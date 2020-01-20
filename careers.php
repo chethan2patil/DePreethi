@@ -15,7 +15,7 @@
 <div class="container">
 <div class="teacher-item col-sm-12 teacher-about-row">
 <h1>Careers</h1>
-<p>If you are looking for an exciting career, then mail us your resume at admin@gmail.com or contact us on +91 - 9964130120</p>
+<p>If you are looking for an exciting career, then mail us your resume at <a href="mailto:principalcbsepreethi@gmail.com">principalcbsepreethi@gmail.com</a> and copy  <a href="mailto:depreethipublicschool15@gmail.com">depreethipublicschool15@gmail.com</a>  or contact us on 08154 - 250927</p>
 </div>
 </div>
 </div>

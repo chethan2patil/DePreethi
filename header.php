@@ -21,14 +21,11 @@
 		<div class="top-navbar">
 			<div class = "pull-right">
 				<div class="top-nav-social pull-left">
-					<a href="#">
+				<a href="https://www.facebook.com/De-Preethi-Public-School-CBSE-1389961401139674/">
 						<i class="fa fa-facebook"></i>
 					</a>
 					<a href="#">
 						<i class="fa fa-twitter"></i>
-					</a>
-					<a href="#">
-						<i class="fa fa-google-plus"></i>
 					</a>
 					<a href="#">
 						<i class="fa fa-linkedin"></i>
@@ -48,7 +45,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<!--<img src="assets/img/preethilogo.jpg" style="    width: 100px;" alt="Preethi Public School"/>-->
+			<!--	<img src="assets/img/preethilogo.jpg" style="    width: 100px;" alt="Preethi Public School"/>-->
 				<a class="navbar-brand" href="index.php">De Preethi Public School</a> 
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
@@ -94,17 +91,17 @@
 							<a href="admission.php">
 							</i>Admission Process
 						</a>
-						<a href="admission.php">
+						<a href="eligibility.php">
 							</i>Eligibility
 						</a>
-						<a href="admission.php">
+						<a href="faq.php">
 							</i>FAQ
 						</a>
 					</li>
 					</ul>
 				</li>
 				<li class="dropdown">
-					<a href="events.html" data-toggle="dropdown" class="dropdown-toggle">
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle">
 					</i>ACADEMICS 
 					<b class="caret"></b>
 				</a>
@@ -121,24 +118,30 @@
 					</li>
 				</ul>
 			</li>
+			<li class="dropdown">
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle">ACHIEVEMENTS
+							<b class="caret"></b>
+						</a>
+					<ul class="dropdown-menu">
+						<li>
+								<a href="achievements.php">
+									</i>ACHIEVEMENTS
+								</a>
+						</li>
+							<li>
+									<a href="infrastructure.php">
+									</i>INFRASTRUCTURE
+									</a>
+							</li> 
+					</ul>
+				</li>
+			
+			
 			<li>
-				<a href="careers.php">
-				</i>ACHIEVEMENTS
-			</a>
-		   </li>
-		   <li class="dropdown">
-					<a href="events.html" data-toggle="dropdown" class="dropdown-toggle">
-					</i>INFRASTRUCTURE 
-					<b class="caret"></b>
-				</a>
-				<ul class="dropdown-menu">
-					<li>
-						<a href="academic.php">
+						<a href="gallery.php">
 							</i>GALLERY
 						</a>
-					</ul>
-					</li>         
-			</li>    
+					</li>    
 			<li>
 				<a href="careers.php">
 				</i>CAREER
