@@ -14,7 +14,7 @@
 <!-- Wrapper for slides -->
 <div class="carousel-inner" role="listbox">
 <div class="item active">
-<img src="assets/img/slider/slide4.jpg" alt="slide1">
+<img src="assets/img/slider/banner.jpg" alt="slide1">
 <div class="carousel-caption">
 	<h4>
 		<i class="fa fa-star-o"></i>WE ARE BEST

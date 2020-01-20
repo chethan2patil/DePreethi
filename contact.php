@@ -60,6 +60,7 @@
 							</div>
 							<div class="col-xs-11">
 								<p>depreethipublicschool15@gmail.com</p>
+								<p><a href="mailto:principalcbsepreethi@gmail.com">principalcbsepreethi@gmail.com</a></p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -68,7 +69,7 @@
 								<i class="fa fa-phone"></i>
 							</div>
 							<div class="col-xs-11">
-								<p>+08154 250927</p>
+								<p>08154 250927</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
