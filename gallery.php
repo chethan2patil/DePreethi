@@ -89,6 +89,223 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Fine Arts" href="assets/img/news/gallery.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery8.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery8.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery9.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery9.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery10.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Fine Arts" href="assets/img/news/gallery10.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery11.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery11.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery12.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery12.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery13.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Fine Arts" href="assets/img/news/gallery13.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery14.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery14.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery15.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery15.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery16.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Fine Arts" href="assets/img/news/gallery16.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery17.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery17.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery18.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery18.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery19.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery19.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery20.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery20.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery21.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery21.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery22.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery22.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery23.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery23.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4">
+						<div class="image-wrapper">
+							<img src="assets/img/news/gallery24.jpg" alt="Cruise">
+							<div class="img-caption">
+								<div class="link">
+									<a title="Arts" href="assets/img/news/gallery24.jpg">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</div>

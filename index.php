@@ -29,9 +29,6 @@
 		<strong>Preethi Public School</strong> provides best education 
 		<br /> to your little one
 	</p>
-	<a href="#">
-		<i class="fa fa-paper-plane"></i>KNOW MORE
-	</a>
 </div>
 </div>
 <div class="item">
@@ -50,9 +47,6 @@
 			<strong>Preethi Public School</strong> provides best education 
 			<br /> to your little one
 		</p>
-		<a href="#">
-			<i class="fa fa-paper-plane"></i>KNOW MORE
-		</a>
 	</div>
 </div>
 <div class="item">
@@ -71,9 +65,6 @@
 				<strong>Preethi Public School</strong> provides best education 
 				<br /> to your little one
 			</p>
-			<a href="#">
-				<i class="fa fa-paper-plane"></i>KNOW MORE
-			</a>
 		</div>
 	</div>
 </div>
@@ -116,7 +107,7 @@
 					</div>
 					<div class="featured-event">
 						<h3>Admissions open for </h3>
-						<h3>2019-2020. </h3>
+						<h3>2020-2021. </h3>
 						<h3>Kindergarten to Grade 10 </h3>
 					</div>
 				</div>

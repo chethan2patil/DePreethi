@@ -50,7 +50,7 @@
 								<i class="fa fa-map-marker"></i>
 							</div>
 							<div class="col-xs-11">
-								<p> Chintamani , Bagepalli Road, Chintamani, Karnataka - 563125 </p>
+								<p> Thimmasandra , Chikkaballapur Road, Chintamani, Karnataka - 563125 </p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -59,7 +59,7 @@
 								<i class="fa fa-envelope-o"></i>
 							</div>
 							<div class="col-xs-11">
-								<p>depreethipublicschool15@gmail.com</p>
+								<p><a href="mailto:depreethipublicschool15@gmail.com">depreethipublicschool15@gmail.com</a></p>
 								<p><a href="mailto:principalcbsepreethi@gmail.com">principalcbsepreethi@gmail.com</a></p>
 							</div>
 							<div class="clearfix"></div>
@@ -69,7 +69,7 @@
 								<i class="fa fa-phone"></i>
 							</div>
 							<div class="col-xs-11">
-								<p>08154 250927</p>
+								<p>8861814011</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -79,6 +79,7 @@
 							</div>
 							<div class="col-xs-11">
 								<p>MON to FRI: 09:10 AM - 04:10 PM </p>
+								<p>SAT: 09:10 AM - 12:30 PM </p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
