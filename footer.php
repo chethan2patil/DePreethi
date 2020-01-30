@@ -5,7 +5,7 @@
 <div class="school-logo">
 	<i class="fa fa-graduation-cap"></i>
 	<h3>De Preethi Public School</h3>
-	<h6>BETTER WAY TO LEARN & GROW</h6>
+	<h6>Affiliated to CBSE New Delhi. Upto 31-3-2020</h6>
 </div>
 <div class="col-md-4 col-sm-6 footer-item">
 	<h5>CONTACT US</h5>

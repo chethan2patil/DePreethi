@@ -46,7 +46,8 @@
 					<span class="icon-bar"></span>
 				</button>
 			<!--	<img src="assets/img/preethilogo.jpg" style="    width: 100px;" alt="Preethi Public School"/>-->
-				<a class="navbar-brand" href="index.php">De Preethi Public School</a> 
+				<a class="navbar-brand" href="index.php">De Preethi Public School</a> </br>
+				<p style="color:white"> Affiliated to CBSE New Delhi. Upto 31-3-2020</p>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="Preethi Public SchoolNavbarCollapse">
@@ -112,13 +113,39 @@
 						</a>
 					</li>
 					<li>
-						<a href="assesment.php">
+						<a href="assessment.php">
 							</i>Assessment and Evaluation
 						</a>
 					</li>
+					<li>
+						<a href="teachers.php">
+							</i>Details of teachers
+						</a>
+					</li>
+					<li>
+						<a href="students.php">
+							</i> List of students
+						</a>
+					</li>
+					<li>
+						<a href="books.php">
+							</i> BOOKS PRESCRIBED
+						</a>
+					</li>
+					<li>
+						<a href="curricular.php">
+							</i> CO-CURRICULAR
+						</a>
+					</li>
+					<li>
+						<a href="circulars.php">
+							</i> SCHOOL CIRCULARS
+						</a>
+					</li>
+					
 				</ul>
 			</li>
-			<li class="dropdown">
+			<!-- <li class="dropdown">
 					<a href="#" data-toggle="dropdown" class="dropdown-toggle">ACHIEVEMENTS
 							<b class="caret"></b>
 						</a>
@@ -134,8 +161,13 @@
 									</a>
 							</li> 
 					</ul>
-				</li>
-			
+				</li> -->
+				<li>
+						<a href="infrastructure.php">
+							</i>INFRASTRUCTURE
+						</a>
+					</li>    
+			<li>
 			
 			<li>
 						<a href="gallery.php">

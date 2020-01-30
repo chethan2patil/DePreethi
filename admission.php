@@ -7,13 +7,14 @@
 <!-- Page Title Section -->
 <div class="row page-title page-title-about">
 <div class="container">
-<h2>Admission Process</h2>
 </div>
 </div>
 
 <!-- Teachers row -->
 <div class="row section-row">
 <div class="container">
+<h1>NORMS FOLLOWED FOR FIXING FEE :As Approved By BEO</h1>
+
 <h3>Application Form</h3>
 <p1>The brochure and application form can be obtained from the school office by paying Rs.250.</p1>
 <h3>Submission of Application Form</h3>

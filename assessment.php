@@ -7,7 +7,6 @@
 <!-- Page Title Section -->
 <div class="row page-title page-title-about">
 <div class="container">
-<h2>Assessment and Evaluation</h2>
 </div>
 </div>
 <!-- Teachers row -->

@@ -14,41 +14,23 @@
 <!-- Wrapper for slides -->
 <div class="carousel-inner" role="listbox">
 <div class="item active">
-<img src="assets/img/slider/banner.jpg" alt="slide1">
+<img src="assets/img/slider/slide4.jpg" alt="slide1">
 <div class="carousel-caption">
 	<h4>
 		<i class="fa fa-star-o"></i>WE ARE BEST
 		<i class="fa fa-star-o"></i>
 	</h4>
-	<h2>Find   
+	<h2>OUR SCHOOL 
 		<span> 
-			<i class="fa fa-trophy"></i>your
-		</span> own greatness
+			<i class="fa"></i>IMPLEMENTS
+		</span> "NO HOMEWORK POLICY " 
 	</h2>
-	<p>We here at 
-		<strong>Preethi Public School</strong> provides best education 
-		<br /> to your little one
+	<p>
+		<strong>FOR GRADE I AND GRADE II</strong> 
 	</p>
 </div>
 </div>
-<div class="item">
-<img src="assets/img/slider/slide5.jpg" alt="slide2">
-	<div class="carousel-caption">
-		<h4>
-			<i class="fa fa-star-o"></i>WE ARE BEST
-			<i class="fa fa-star-o"></i>
-		</h4>
-		<h2>LET YOUR CHILD 
-			<span>
-				<i class="fa fa-line-chart"></i>GROW
-			</span>
-		</h2>
-		<p>We here at 
-			<strong>Preethi Public School</strong> provides best education 
-			<br /> to your little one
-		</p>
-	</div>
-</div>
+
 <div class="item">
 	<img src="assets/img/slider/slide6.jpg" alt="slide2">
 		<div class="carousel-caption">
@@ -67,6 +49,23 @@
 			</p>
 		</div>
 	</div>
+	<div class="item">
+<img src="assets/img/slider/slide5.jpg" alt="slide2">
+<div class="carousel-caption">
+	<h4>
+		<i class="fa fa-star-o"></i>WE ARE BEST
+		<i class="fa fa-star-o"></i>
+	</h4>
+	<h2>OUR SCHOOL 
+		<span> 
+			<i class="fa"></i>IMPLEMENTS
+		</span> "NO HOMEWORK POLICY " 
+	</h2>
+	<p>
+		<strong>FOR GRADE I AND GRADE II</strong> 
+	</p>
+</div>
+</div>
 </div>
 <!-- Slide Controls -->
 <a class="left carousel-control" href="#homeSlider" role="button" data-slide="prev">
