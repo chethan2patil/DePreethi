@@ -42,7 +42,7 @@ tr:nth-child(even) {
                 <th>2</th>
                 <td>Roopa N</td>
                 <td>MA,Mphil,B.Ed</td>
-                <td>TGT</td>
+                <td>TGT,CCE Coordinator</td>
                 <td>17</td>
             </tr>
             <tr>
@@ -230,13 +230,20 @@ tr:nth-child(even) {
             </tr>
             <tr>
                 <th>29</th>
-                <td>Malathi.K.R</td>
-                <td>BE</td>
-                <td>OTHER</td>
-                <td>15</td>
+                <td>Ramanji.N</td>
+                <td>M.Lib</td>
+                <td>Librarian</td>
+                <td>3</td>
             </tr>
             <tr>
                 <th>30</th>
+                <td>Roshan Taj</td>
+                <td></td>
+                <td>Clerk</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <th>31</th>
                 <td>Chaitra </td>
                 <td></td>
                 <td>Clerk</td>
